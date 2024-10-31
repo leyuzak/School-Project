@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1728408385 source:c:\users\leyuz\onedrive\masaüstü\yeni klasör\veriyapýlarýders3\22100011029_odev3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
